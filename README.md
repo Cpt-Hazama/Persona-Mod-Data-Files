@@ -1,4 +1,4 @@
-# Persona-Mod-Data-Files
+# Persona Mod .DAT Files
 Since Garry doesn't allow files such as .txt, .dat, etc to the workshop :/ I have to upload these else where...
 
 # Basic Installation
